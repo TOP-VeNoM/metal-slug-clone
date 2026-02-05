@@ -3,6 +3,5 @@
 3. Install JavaFX and Gson Library.
 4. Run the main file and enjoy the game.
 
-
 BONUS INSTRCTION:
-Don't try to understand the code because even WE don't what's happening at this point ;)
+Don't try to understand the code because even WE don't know what's happening at this point ;)
